@@ -8,9 +8,9 @@ package com.mycompany.mavenproject1;
  *
  * @author Lenovo
  */
-public class Controlador_A {
+public class ControladorA implements PanelControl {
     
-    public Controlador_A(){
+    public ControladorA(){
     
     }
     
