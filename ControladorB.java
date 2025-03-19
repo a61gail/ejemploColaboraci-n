@@ -20,3 +20,4 @@ public class ControladorB implements PanelControl {
         System.out.println("Controlador B en evento B");
     }
 }
+
