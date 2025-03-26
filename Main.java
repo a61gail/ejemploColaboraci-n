@@ -1,7 +1,12 @@
 
  public class Main {
     public static void main(String[] args) {
-	ControladorB controladorB = new ControladorB();
-	controladorB.eventoB();
+
+        ControladorA controlA= new ControladorA();
+
+        controlA.eventoA();
+      
+	      ControladorB controladorB = new ControladorB();
+	      controladorB.eventoB();
     }
 }
