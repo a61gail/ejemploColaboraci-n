@@ -5,7 +5,8 @@
         ControladorA controlA= new ControladorA();
 
         controlA.eventoA();
-        controlA.eventoB();
-
+      
+	      ControladorB controladorB = new ControladorB();
+	      controladorB.eventoB();
     }
 }
